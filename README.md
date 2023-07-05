@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chandrahas77
-- 👀 I’m golang backend developer.
+- 👀 I’m a golang backend developer.
 - 🌱 I'd love to solve real-world use cases with my problem solving skills
 - 💞️ I’m looking forward to collaborate on golang projects
 
